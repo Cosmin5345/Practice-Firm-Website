@@ -1,4 +1,4 @@
-Project: Firm Fair Project – Company Presentation Website
+Project: Enterprise Fair Project – Company Presentation Website
 
 Achievement: 3rd place at the Enterprise Fair
 
